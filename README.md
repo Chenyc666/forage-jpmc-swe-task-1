@@ -1,4 +1,5 @@
 # JPMC Task 1
-Starter repo for task 1 of the JPMC software engineering program
 
+JPMorgan Chase Back-End Engineering Virtual Experience Program
+ 
 
